@@ -1,3 +1,5 @@
+![Deskripsi Foto](Foto.png)
+
 # Queue Repeat — Spicetify Extension
 
 A lightweight Spicetify extension that adds a **Queue Repeat** toggle button to Spotify's player bar. When enabled, every track that finishes playing from your queue is automatically re-added to the end of the queue — creating a seamless, infinite loop of your manually queued tracks.
