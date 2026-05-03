@@ -1,9 +1,13 @@
-{
-  "name": "Queue Repeat",
-  "description": "Loop tracks added to the manual queue",
-  "main": "queue-repeat.js",
-  "authors": ["Malik"],
-  "readme": "README.md",
-  "version": "1.0.0",
-  "preview": "Foto.png"
-}
+[
+  {
+    "name": "Queue Repeat",
+    "description": "Loop your manual queue tracks indefinitely.",
+    "preview": "Foto.png",
+    "main": "queue-repeat.js",
+    "readme": "README.md",
+    "authors": [
+        { "name": "Malikeq", "url": "https://github.com/Malikeq" }
+    ],
+    "tags": ["utility", "queue"]
+  }
+]
