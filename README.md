@@ -67,7 +67,7 @@ Spotify will restart automatically with the extension active.
 ## Uninstall
 
 ```powershell
-spicetify config extensions queue-repeat.js-
+spicetify config extensions queue-repeat.js
 spicetify apply
 ```
 
