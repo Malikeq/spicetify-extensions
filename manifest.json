@@ -3,7 +3,7 @@
     "name": "Queue Repeat",
     "description": "Automatically re-queue tracks to maintain a persistent loop of your current queue.",
     "preview": "queuerepeat/preview.gif",
-    "main": "queuerepeat/queue-repeat.js",
+    "main": "queuerepeat/queuerepeat.js",
     "readme": "queuerepeat/README.md",
     "authors": [
       { 
