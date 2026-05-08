@@ -1,10 +1,10 @@
 [
   {
-    "name": "QueueRepeat",
+    "name": "Queue Repeat",
     "description": "Automatically re-queue tracks to maintain a persistent loop of your current queue.",
-    "preview": "Preview.gif",
-    "main": "queue-repeat.js",
-    "readme": "README.md",
+    "preview": "queuerepeat/preview.gif",
+    "main": "queuerepeat/queue-repeat.js",
+    "readme": "queuerepeat/README.md",
     "authors": [
       { 
         "name": "Malikeq", 
